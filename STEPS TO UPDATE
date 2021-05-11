@@ -1,0 +1,11 @@
+[1] Digvijay's-MBP:academic_site vicky home# hugo
+
+[2] Digvijay's-MBP:academic_site vicky home# cd public/
+
+[3] Digvijay's-MBP:public vicky home# git status
+
+[4] Digvijay's-MBP:public vicky home# git add .
+
+[5] Digvijay's-MBP:public vicky home# git commit -m "added new experience Keck"
+
+[6] Digvijays-MBP:public vicky home# git push -u origin master
